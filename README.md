@@ -1,2 +1,1 @@
-# C-Programming-With-Sayan
-The C Journey
+# The C Journey
